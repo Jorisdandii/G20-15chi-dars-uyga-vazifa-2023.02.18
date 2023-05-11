@@ -1,0 +1,47 @@
+html {
+    height: 100%;
+}
+body {
+    background-color:white
+}
+.siroj {
+    background-color:rgb(203, 202, 202);
+    text-align: center;
+    width: 80%;
+    margin-top: 20px;
+    line-height: 30px;
+    color: rgb(90, 85, 85);
+    font-size: 13px;
+}
+.siroji {
+    background-color: rgb(178, 217, 137);
+    text-align: center;
+    width: 80%;
+    line-height: 30px;
+    color: rgb(79, 137, 13);
+    font-size: 13px;
+}
+.sirojid {
+    background-color: rgb(223, 154, 154);
+    text-align: center;
+    width: 80%;
+    line-height: 30px;
+    color: rgb(188, 6, 6);
+    font-size: 13px;
+}
+.sirojidd {
+    background-color: rgb(253, 236, 138);
+    text-align: center;
+    width: 80%;
+    line-height: 30px;
+    color: rgb(185, 160, 18);
+    font-size: 13px;
+}
+.sirojiddin {
+    background-color: rgb(146, 195, 244);
+    text-align: center;
+    width: 80%;
+    line-height: 30px;
+    color: rgb(64, 107, 171);
+    font-size: 13px;
+}
